@@ -34,6 +34,6 @@ As a fresh pair of eyes on a codebase that the rest of the team may have been wo
 
 # Lastly: have fun!
 
-This is a bit of a bonus tip and it’s all about getting to know your team as people, not just colleagues. If your team does any social stuff, join in. Chat to folks at the start of standup or other meetings. Post a funny GIF or use a silly emoji reaction just because it’ll make people smile. Maybe this is just me, but I feel like work is becomes significantly more rewarding if I invest in getting to know the people I’m working with. It helps me see things from their perspective and have empathy and compassion, which is something I strive for as an engineering leader.
+This is a bit of a bonus tip and it’s all about getting to know your team as people, not just colleagues. If your team does any social stuff, join in. Chat to folks at the start of standup or other meetings. Post a funny GIF or use a silly emoji reaction just because it’ll make people smile. Maybe this is just me, but I feel like work becomes significantly more rewarding if I invest in getting to know the people I’m working with. It helps me see things from their perspective and have empathy and compassion, which is something I strive for as an engineering leader.
 
 > Alright, those were my tips! Do you think I missed anything important? Anything you agree or disagree with? Let me know in the comments!
