@@ -10,7 +10,7 @@ tags: git, advanced-git, fixup-commits
 
 Ever wondered how you change a previous commit that’s all the way back in the commit history? You can use `git commit —amend` to update the very last commit, but what about something that happened three commits ago?
 
-This is where “fixup” commits come in really handy. They’re a little weird to use initially, but once you get your head around them, they become a really useful tool and a way to really level up your Git usage.
+This is where “fixup” commits come in really handy. They’re a little weird to use initially, but once you get your head around them, they become a really useful tool and a way to really level up your Git skills.
 
 # Syntax for fixup commits
 
