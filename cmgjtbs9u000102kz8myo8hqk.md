@@ -33,7 +33,7 @@ We’ll cover that in more detail in a bit.
 Once you’ve got some fixup commits ready to go, you can merge them into their respective parent commits by running:
 
 ```bash
-git rebase -i <commit hash of the commit before the parent commit> --autoquash
+git rebase -i <commit hash of the commit before the parent commit> --autosquash
 ```
 
 Again, you can use `git log` to get the git hash.
@@ -117,7 +117,7 @@ Rebasing is kind of a whole other topic in itself, that I definitely want to wri
 An interactive rebase command is run like this:
 
 ```bash
-git rebase -i <commit hash of commit before the parent commit> --autoquash
+git rebase -i <commit hash of commit before the parent commit> --autosquash
 ```
 
 In order for an interactive rebase to work, you have to find the git hash (or ID) of the commit *before* the commit you want to merge into. i.e. in our example:
