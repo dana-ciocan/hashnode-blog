@@ -12,7 +12,7 @@ Ever wondered how you change a previous commit that’s all the way back in the 
 
 This is where “fixup” commits come in really handy. They’re a little weird to use initially, but once you get your head around them, they become a really useful tool and a way to really level up your Git skills.
 
-> It is worth mentioning at this point that you should only work with fixup commits and perform interactive rebases on branches that you’re the only contributor to. Rebasing can cause a lot of chaos if you’re working with others, so make sure you only do this on feature branches and definitely never on `main`!
+> It is worth mentioning at this point that you should only work with fixup commits and perform interactive rebases on branches that you’re the only contributor to (i.e. feature branches). Rebasing can cause a lot of chaos if you’re working with others, so make sure you only do this on feature branches and definitely never on `main`!
 
 # Syntax for fixup commits
 
