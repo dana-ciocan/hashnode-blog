@@ -110,7 +110,7 @@ After this step, we’ll still see a purple background and no art as yet - that�
 
 # Creating a stalk
 
-A stalk can be as simple as a little rectangle, but to add a little bit of flare, I used a neat trick to create some slanted sides, making it a kind of trapezoid shape.
+A stalk can be as simple as a little rectangle, but to add a little bit of flare, I used a little trick to create some slanted sides, making it a kind of trapezoid shape.
 
 ```css
 .stalk {
@@ -124,7 +124,7 @@ A stalk can be as simple as a little rectangle, but to add a little bit of flare
 }
 ```
 
-This is a very neat little trick that essentially works because CSS borders meet each other at angles. If you set the height of the box to `0` and the width to `25px`, then set the left and right borders to be transparent, you get this fun shape.
+This is a very useful little trick that essentially works because CSS borders meet each other at angles. If you set the height of the box to `0` and the width to `25px`, then set the left and right borders to be transparent, you get this fun shape.
 
 This image may make it a little clearer:
 
@@ -335,7 +335,7 @@ We could leave it there, but jack-o-lanterns usually have some teeth of some des
 }
 ```
 
-The `::before` pseudo element is a really neat way to create a fake element that belongs to the parent to which it is attached. You always have to set `content: ‘‘` to get it to appear (and I always forget about this and spent five minutes scratching my head before I remember). We’ve just used some creative positioning to make the tooth appear at the top of the mouth, like so:
+The `::before` pseudo element is a really handy way to create a fake element that belongs to the parent to which it is attached. You always have to set `content: ‘‘` to get it to appear (and I always forget about this and spent five minutes scratching my head before I remember). We’ve just used some creative positioning to make the tooth appear at the top of the mouth, like so:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730150515371/46766f85-aa07-41a2-9cad-f77ddcd31d10.png align="center")
 
