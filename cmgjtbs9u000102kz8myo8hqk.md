@@ -12,6 +12,8 @@ Ever wondered how you change a previous commit that’s all the way back in the 
 
 This is where “fixup” commits come in really handy. They’re a little weird to use initially, but once you get your head around them, they become a really useful tool and a way to really level up your Git skills.
 
+> It is worth mentioning at this point that you should only work with fixup commits and perform interactive rebases on branches that you’re the only contributor to. Rebasing can cause a lot of chaos if you’re working with others, so make sure you only do this on feature branches and definitely never on `main`!
+
 # Syntax for fixup commits
 
 I’m going to do things slightly differently in this post and put the syntax for fixup commits upfront - this is because every article I ever read about them explains what they are and why you’d want to use them and you have to scroll alllll the way down for the syntax, which is frustrating. It’s like those online recipes that talk about how the person’s grandma always used to make this particular apple pie and it’s special because it uses a particular variety of apple and it just goes on and on, when all you want to see is the dang recipe!
@@ -181,6 +183,18 @@ And you’re kind of right, this is an advanced thing that you might not need de
 This is where you’ll want to have all your commits neatly laid out and easily identifiable, so you can go through and find the commit that touches a particular component or area of the code you’re interested in, because you know that’s where the problem you’re looking at is located.
 
 Having a clean Git history is also not just good for you, it’s also for your teammates. I feel like it’s part of being a responsible custodian of a codebase and a helpful teammate. If your Git history is clean and easy to read, it’ll make it that much easier for your team to understand what you are doing and why.
+
+# A note about the dangers of rebasing
+
+As you’ve seen in this article, rebasing is a really useful tool. However, it can also be very destructive and in fact, years ago, I was always told never to rebase upon pain of death because it “changes history”. I think a lot of people hear this and accept it as the law (I certainly did) because it’s easier not to think about it and just merge `main` into your feature branch when it becomes out of date.
+
+if you’re wondering what “changing history” even means, then let me try to explain. Every time you rebase, Git will update all the hashes for the commits in the rebase, which effectively makes then totally new commits, just with the same contents. If you’ve ever rebased and noticed that on Github, you get the “we went looking for those commits and couldn’t find them anywhere” message, this is why. It makes doing a simple `git pull` impossible and you either have to reset the branch of delete it and start again.
+
+If someone else commits to a branch and then you try and pull their commits down onto your rebased version, Git won’t be able to do it, because the commits on the server won’t be the same as the ones on your local machine - it doesn’t care that the contents of each commit is the same, it works on the basis that if the hashes don’t match, the commits are different.
+
+So yes, if you are collaborating, stick to merging. I’d also advise not rebasing `main`, but more than that, I’d advise enabling branch protection on it so any changes have to be made by way of a pull request, because it’s just much safer all round. You do not want to be pushing commits straight to `main` in a work environment.
+
+Public safety announcement finished, nothing more to see here!
 
 # Tooling
 
