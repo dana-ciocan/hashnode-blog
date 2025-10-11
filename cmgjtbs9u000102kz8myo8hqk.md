@@ -182,7 +182,7 @@ And you’re kind of right, this is an advanced thing that you might not need de
 
 This is where you’ll want to have all your commits neatly laid out and easily identifiable, so you can go through and find the commit that touches a particular component or area of the code you’re interested in, because you know that’s where the problem you’re looking at is located.
 
-Having a clean Git history is also not just good for you, it’s also for your teammates. I feel like it’s part of being a responsible custodian of a codebase and a helpful teammate. If your Git history is clean and easy to read, it’ll make it that much easier for your team to understand what you are doing and why.
+Having a clean Git history is not just good for you, it’s also for your teammates. I feel like it’s part of being a responsible custodian of a codebase and a helpful colleague. If your Git history is clean and easy to read, it’ll make it that much easier for your team to understand what you are doing and why.
 
 # A note about the dangers of rebasing
 
