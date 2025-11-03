@@ -3,7 +3,7 @@ title: "Let's talk about code reviews"
 datePublished: Mon Nov 03 2025 20:24:24 GMT+0000 (Coordinated Universal Time)
 cuid: cmhjl94bq000102l436ag6zee
 slug: lets-talk-about-code-reviews
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fwUt5B1vylA/upload/ec74b726485d8aa4af61c0097ede9df9.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0ZUoBtLw3y4/upload/3bca11727585a2ec4da374c50464bd5d.jpeg
 tags: feedback, code-reviews, pull-requests, pr-feedback, merge-requests
 
 ---
