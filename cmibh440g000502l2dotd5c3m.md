@@ -10,7 +10,7 @@ tags: markdown, nextjs, app-router
 
 ---
 
-> This article is part of a new [”Today I learned” series](https://danaciocan.com/series/til), where I share thing I learned that you might find useful too
+> This article is part of a new [”Today I learned” series](https://danaciocan.com/series/til), where I share a thing I learned that you might find useful too
 
 I want to learn how to use Next.js’ app router because I’m about to start using it in anger at work and I want to be ready. So I started thinking about how I would rewrite this blog in it. I might end up using the end result, I might not, we’ll see - it’s just a good practice opportunity more than anything.
 
