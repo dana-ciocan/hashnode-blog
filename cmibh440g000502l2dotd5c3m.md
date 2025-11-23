@@ -104,7 +104,7 @@ This file will let you do things like replace HTML elements with React component
 
 Now that all the setup is done, you can add your markdown files to the `/app` directory - I grabbed the very first post I ever did on this blog and put it in an `introduction` folder - you’ll have to name the markdown file `page.md` to match the app router’s filename rules. So in my case, my markdown file lives at `/src/app/introduction/page.md`.
 
-Now run your local dev server by running `npm run dev` and you should see your markdown file in all its glory:
+Now run your local dev server by running `npm run dev` and go to `http://localhost:3000/introduction` (or wherever you put your file) and you should see your markdown file in all its glory:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1763887385844/c7123f0e-59c1-4e80-b770-56fd5b7aa5ae.png align="center")
 
