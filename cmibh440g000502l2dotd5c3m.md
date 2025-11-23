@@ -45,11 +45,11 @@ If you’ve already got one, you can skip this step. If not, do the following:
 4. Open your new shiny app in your favourite IDE
     
 
-# Install the markdown extensions
+# Install the markdown dependencies
 
 We need to install `@mdx-js/loader` ([Webpack loader](https://www.npmjs.com/package/@mdx-js/loader)), `@next/mdx` ([Next.js plugin for MDX](https://www.npmjs.com/package/@next/mdx)) and `@types/mdx` ([type definitions](https://www.npmjs.com/package/@types/mdx), so this works with TypeScript).
 
-Here’s the install command for those modules - just copy/paste this into your VS Code terminal:
+Here’s the install command for those modules - just copy/paste this into your VS Code terminal and hit enter:
 
 ```bash
 npm install @mdx-js/loader @next/mdx @types/mdx
