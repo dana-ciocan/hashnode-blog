@@ -66,15 +66,15 @@ This is deeply related to the previous section in that, once you know what you w
 
 If you need inspiration for some questions to ask, here are a few of mine:
 
-1. **What is your favourite thing about working at ?** - you will soon be able to tell whether people are loving their jobs or just riding it out until the next one comes along and that will give you a feel for what things are like at the company
+1. **What is your favourite thing about working at \[insert company name here\]?** - you will soon be able to tell whether people are loving their jobs or just riding it out until the next one comes along and that will give you a feel for what things are like at the company
     
 2. **How do you make sure your engineers feel safe?** - psychological safety is of utmost importance to me and this one shows me whether it’s on a company’s radar and how they feel about it
     
 3. **What opportunities do you provide for personal growth?** - no-one wants to be in a role where learning is deprioritised and I really wanted a role where learning was actively supported
     
-4. **How do you use AI at ?** - a company’s policy on AI can tell you a lot about their culture in general
+4. **How do you use AI at \[insert company name here\]?** - a company’s policy on AI can tell you a lot about their culture in general
     
-5. **How is tech debt handled at ?** - again, how a company handles tech debt tells you a lot about their culture in general; do they actively address it or is it just put on a backlog never to be looked at again?
+5. **How is tech debt handled at \[insert company name here\]?** - again, how a company handles tech debt tells you a lot about their culture in general; do they actively address it or is it just put on a backlog never to be looked at again?
     
 
 I’m not saying they’re perfect and obviously these are highly personal to what I was looking for in my next role, but they might give you some inspiration for your own set of questions. I would also say, don’t just have the same list of questions for each company - they should be tailored for each role if you can. I found that I had a standard list of four or five questions I’d ask everyone and then I’d add in other, more custom questions too. It shows that you’re paying attention to the company and interested in what they’re up to.
