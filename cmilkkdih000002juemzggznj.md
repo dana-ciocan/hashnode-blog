@@ -10,7 +10,7 @@ tags: interview, tips, culture, job-hunting, dsa, mental-health, job-search
 
 I recently (in August 2025) switched roles: I went from a Staff Engineer role at the Economist to a Senior Engineer role at Octopus Energy. I had a *lot* of different interviews - so many in fact that I lost count and stopped keeping track. I was looking over the notes I kept for the interviews as preparation for this article and there were companies in there I had clean forgotten about applying for. All that to say that it can take a lot of interviews before you find a job that is the right fit. Interviewing is hard work and can be demoralising at times, so I wanted to write down what worked for me to give you some things consider if you are also looking. I ended up in a job I really love and I hope you will too - wishing you so much luck in your search!
 
-> I want to add a caveat to this article: I was looking for a job from a position of safety. I had a job and I was looking for the next step in my career. This advice is very much written from that perspective and may not work so well if you have been made redundant (sadly way too common these days) or are otherwise looking from a position that is less secure.
+> I want to add a caveat to this article: I was looking for a job from a position of safety. I still had a job and I was looking for the next step in my career. This advice is very much written from that perspective and may not work so well if you have been made redundant (sadly way too common these days) or are otherwise looking from a position that is less secure.
 
 # Just… start
 
