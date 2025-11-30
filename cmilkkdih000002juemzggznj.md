@@ -113,7 +113,7 @@ Not many folks have heard of this app, but I found it invaluable for finding tec
 
 [https://www.structy.net/](https://www.structy.net/)
 
-If you are going to be doing any data structures and algorithms interviews, I would recommend looking at Structy for brushing up on your technique. It has a generous free tier and you can optionally purchase a subscription to get access to more. You can choose JavaScript, Python, C++ or Java as your language of choice and the Alvin Zablan is very good at explaining things in a simple, easy to understand way should you need that. I got this course pretty cheap in a Black Friday sale, but it doesn’t look like Alvin has reduced the cost of his course for Black Friday this year. Worth signing up for the course and seeing if he does a sale anyway though I guess!
+If you are going to be doing any data structures and algorithms interviews, I would recommend looking at Structy for brushing up on your technique. It has a generous free tier and you can optionally purchase a subscription to get access to more. You can choose JavaScript, Python, C++ or Java as your language of choice and course instructor, Alvin Zablan, is very good at explaining things in a simple, easy to understand way should you need that. I got this course pretty cheap in a Black Friday sale, but it doesn’t look like Alvin has reduced the cost of his course for Black Friday this year. Worth signing up for the course and seeing if he does a sale anyway though I guess!
 
 ## Advent of code
 
