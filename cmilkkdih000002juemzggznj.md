@@ -107,7 +107,7 @@ I found searching on LinkedIn a bit of a nightmare because engineering jobs can 
 
 [https://app.welcometothejungle.com/](https://app.welcometothejungle.com/)
 
-Not many folks have heard of this app, but I found it invaluable for finding technology jobs. *Welcome to the Jungle* used to be called *Otta* and is a tech-focused recruitment portal. You can really narrow down your search using some interesting preferences, even down to whether the company is female-owned or not. This one is particularly useful if you are looking for remote work or work based in London because it won’t let you narrow searches down to other UK cities, unfortunately. That was the only down side for me as I was ideally looking for something with a local (to me) office, but things worked out in the end as I got a remote role that I’m very happy with.
+Not many folks have heard of this app, but I found it invaluable for finding technology jobs. *Welcome to the Jungle* used to be called *Otta* and is a tech-focused recruitment portal. You can really narrow down your search using some interesting preferences, even down to whether the company is female-owned or not. This one is particularly useful if you are looking for remote work or work based in a large city like London because it won’t let you narrow searches down to smaller cities, unfortunately. That was the only down side for me as I was ideally looking for something with a local (to me) office, but things worked out in the end as I got a remote role that I’m very happy with.
 
 ## Structy
 
