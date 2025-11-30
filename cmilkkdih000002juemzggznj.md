@@ -89,7 +89,7 @@ Related to the previous point, do not be afraid to pull out of an interview proc
 
 Interviewing is *hard work* and if you are currently still in a job, it will add extra strain and can almost feel like a whole other job in itself. Interviews often come in clumps and it’s easy to overbook yourself - I had this happen a few times and had to withdraw from otherwise promising-seeming interview processes because I had too much on and couldn’t cope. I was already pretty exhausted from my day job and adding interviews into the mix made me almost burn out a few times. So yes, be careful.
 
-If you have any kind of self-care regime, make sure you stick to it. I am terrible at this by the way, so I am one to talk, but I feel like if I’d have continued to meditate, go for walks, eat well and all the other things I normally do to take care of my mind and body, things would have definitely been easier for me. It’s worth devoting some thinking time before you start in earnest to how you can best support yourself while you are going through this stressful period in life - after all, they do say changing jobs is one of the three most stressful things you can do!
+If you have any kind of self-care regime, make sure you stick to it. I am terrible at this by the way, so I am one to talk, but I feel like if I’d have continued to meditate, go for walks, eat well and all the other things I normally do to take care of my mind and body, things would have definitely been easier for me. It’s worth devoting some thinking time before you start in earnest to how you can best support yourself while you are going through this stressful period in life - after all, they do say changing jobs is one of the most stressful things you can do!
 
 # Tools I used to help me
 
