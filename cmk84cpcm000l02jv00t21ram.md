@@ -18,7 +18,7 @@ She studied Law at University and worked at the UN afterwards, but got frustrate
 
 # The TL;DR
 
-> This contains spoilers, so don’t read it if you want to read the book yourself
+**NOTE:** This section contains spoilers, so don’t read it if that bothers you!
 
 Wynn-Williams’ firsthand account of her journey at Facebook is *wild*. Even the way she was hired was out of the ordinary - she just decided she really wanted to work there as a “diplomat” because “Facebook is this global political force that is going to change the internet and the world, and these things matter” and just kept pitching them a role that didn’t exist yet until they gave in and hired her. Her initial enthusiasm and optimism really shines through on the page - you don’t just keep trying to get a non-existent job for over a year unless you’re really fired up about the idea and initially, it seems like she might actually be able to make a difference.
 
