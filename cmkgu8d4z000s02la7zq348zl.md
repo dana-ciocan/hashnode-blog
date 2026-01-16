@@ -1,0 +1,26 @@
+---
+title: "Weekly roundup: 16/01/2026"
+datePublished: Fri Jan 16 2026 12:11:34 GMT+0000 (Coordinated Universal Time)
+cuid: cmkgu8d4z000s02la7zq348zl
+slug: weekly-roundup-16012026
+tags: migration, nextjs, tech-debt, nextjs-app-router
+
+---
+
+This week has flown by. We had an office day this week which is when our team comes into the Octopus office in London and I tend to find that weeks with office days always seem to go super fast. I don’t know what it is about going into London that makes time speed up so much, but it does, so it is Friday yet again!
+
+This week’s roundup has quite a bit of stuff about Next.js app router because that’s where my mind is at right now. I will for sure do some more detailed “tutorial” style posts about this soon because I’m learning a ridiculous amount. Getting to grips with a new framework is fun, but also a lot of work and it’d be nice to share some of the mistakes I made and things I learned so others are one step ahead of where I was when I started.
+
+Anyway, without further ado, here’s some things I learned this week.
+
+# 🎩 App router has gotten fancy
+
+I’ve been delving into the Next.js app router this week and boy has it changed since the last time I looked at it. Back when Next.js v13 first came out, app router was extremely controversial and I remember having many conversations with my team at the time around whether we should switch and we very firmly decided “no, not yet” because everything was still quite experimental and new (and a bit broken). I’m not sure I’d say the same these days. You can tell some stuff is still actively being worked out, like the caching side of things, but I kind of like that Vercel have backtracked on that to be honest. When the app router first came out, everything was cached by default and even though `cacheComponents` (previously `dynamicIO`) is still experimental, it shows Vercel are listening and trying to do right by their users. Or maybe they’re just scared that everyone is going to leave them and build their applications with other frameworks, who knows. In any case, I’ve been doing [Scott Moss’ Next.js Fundamentals course](https://frontendmasters.com/courses/next-js-v4/) on Frontend Masters and have been quite impressed. It’s all making a lot more sense than it did back in the day and I don’t know whether that’s because Next.js has gotten easier or whether I have just had enough time to let all the concepts soak in so I have more of a holistic understanding of it all. In any case, Scott does a good job explaining some very tricky concepts so I recommend his course wholeheartedly if app router is still stressing you out.
+
+# 🤫 Big changes *can* go in quietly
+
+I opened four tech debt PRs on Friday last week and left it till Monday to merge them because I was a bit scared they were going to blow up in my face. One was for a Node update, another for a FOUR major version upgrade of a dependency, the other for using [store\_test\_results](https://circleci.com/docs/reference/configuration-reference/#storetestresults) in CircleCI (to get ready for re-running failed tests only) and another one for removing an unused dependency. I was pretty sure that last one would be okay, but the first two had a pretty big blast radius and I must admit, I was a little anxious about them. Luckily, they went in fine and I put that down to having pretty good unit and e2e test coverage - I know I keep going on about coverage, but it’s important! It meant I could be fairly confident that my changes would go in just fine. I also did some manual testing locally, I must admit, because I don’t think you can avoid it with changes this big. Once I merged the PRs, I made sure to keep an eye on our monitoring to make sure nothing looked broken. I created revert PRs, just in case, but they weren’t even needed, everything went in totally fine. It’s nice to acknowledge when quiet successes happen, because it’s so easy for them to go wrong and nobody notices when they go right. I also just don’t give myself enough credit for them, as I’m sure lots of us don’t!
+
+# 🥫 It’s okay to kick the can down the road (sometimes)
+
+I’m working on a big migration project at the moment and it’s super easy to get stuck down rabbit holes of the “oh, we could modernise this while we’re at it” variety. One example this week was updating the styling as our repo uses some pretty old conventions and a CSS extension language that I wouldn’t choose now if I were working on a greenfield project. Given how far plain CSS has come in the last few years, the thought of “we could totally update this CSS” occurred to me and while we could *theoretically* do that, I was working on a POC to show how to create a Next.js app router page, not even the migration itself! After a good sleep and a chat with Claude, I came to the realisation that I was taking this too far. I ended up importing the old CSS and leaving it, because “if it ain’t broke, don’t fix it” can be good enough sometimes.
