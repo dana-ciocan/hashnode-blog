@@ -3,6 +3,7 @@ title: "Weekly roundup: 16/01/2026"
 datePublished: Fri Jan 16 2026 12:11:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmkgu8d4z000s02la7zq348zl
 slug: weekly-roundup-16012026
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/C7B-ExXpOIE/upload/f37e28c6706d5748b484cfd97b5146b3.jpeg
 tags: migration, nextjs, tech-debt, nextjs-app-router
 
 ---
