@@ -1,5 +1,5 @@
 ---
-title: "Weekly roundup: 09/01/2026"
+title: "Post-Christmas brain, refactoring with tests, learning from launches and fun!"
 datePublished: Fri Jan 09 2026 12:18:29 GMT+0000 (Coordinated Universal Time)
 cuid: cmk6ueakq000802jufdvdhu5c
 slug: weekly-roundup-09012026
