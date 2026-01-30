@@ -1,5 +1,5 @@
 ---
-title: "Weekly roundup: 19/12/2025"
+title: "Covid sucks, some thoughts about this year and plans for the next"
 datePublished: Fri Dec 19 2025 17:48:46 GMT+0000 (Coordinated Universal Time)
 cuid: cmjd5y5gq000002jmbm0079sx
 slug: weekly-roundup-19122025
