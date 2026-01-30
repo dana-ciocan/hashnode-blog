@@ -1,5 +1,5 @@
 ---
-title: "Weekly roundup: 27/11/2025"
+title: "Fighting TypeScript, tripping over myself and some thoughts about AI"
 datePublished: Thu Nov 27 2025 22:44:49 GMT+0000 (Coordinated Universal Time)
 cuid: cmii0u5ai000202lbeyqaan6o
 slug: weekly-roundup-27112025
