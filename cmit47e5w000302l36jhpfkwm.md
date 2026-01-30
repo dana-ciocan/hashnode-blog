@@ -1,5 +1,5 @@
 ---
-title: "Weekly roundup: 05/12/2025"
+title: "A weird Playwright bug, AI (again), turning things off and on again and Advent of Code"
 datePublished: Fri Dec 05 2025 17:04:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmit47e5w000302l36jhpfkwm
 slug: weekly-roundup-05122025
