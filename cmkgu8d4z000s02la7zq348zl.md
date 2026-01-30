@@ -1,5 +1,5 @@
 ---
-title: "Weekly roundup: 16/01/2026"
+title: "Next.js app router, tech debt and migration advice"
 datePublished: Fri Jan 16 2026 12:11:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmkgu8d4z000s02la7zq348zl
 slug: weekly-roundup-16012026
