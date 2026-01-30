@@ -1,8 +1,8 @@
 ---
-title: "Weekly roundup: 23/01/2026"
+title: "Why monitoring is crucial, multitasking with AI, asking for help and dealing with feelings"
 datePublished: Sat Jan 24 2026 21:22:57 GMT+0000 (Coordinated Universal Time)
 cuid: cmkstg9ni000b02jodpv9d1gw
-slug: weekly-roundup-23012026
+slug: why-monitoring-is-crucial-multitasking-with-ai-asking-for-help-and-dealing-with-feelings
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JKUTrJ4vK00/upload/cb684b7cbcd2c32d760fbc1cd123d849.jpeg
 tags: ai, artificial-intelligence, monitoring, multitasking, feelings, alerting
 
